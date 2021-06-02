@@ -1,0 +1,10 @@
+Center Name : {centername}
+Address : {address}
+Pincode : {pincode}
+Date : {date}
+Age Limit : {min_age_limit} Above
+Vaccine : {vaccine}
+VaccineType : {vaccineType}
+Available Capacity : {available_capacity}
+Available Capacity Dose1 : {available_capacity_dose1}
+Available Capacity Dose2 : {available_capacity_dose2}

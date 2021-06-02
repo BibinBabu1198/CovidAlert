@@ -1,0 +1,149 @@
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\ConfigLog.config
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\Assets\Icons\import.ico
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\Assets\Icons\mailer.ico
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.exe.config
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.exe
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.pdb
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.dll
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\log4net.dll
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\MySql.Data.dll
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.xml
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\log4net.xml
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.DataImporter.resources
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.Properties.Resources.resources
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.GenerateResource.cache
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.CoreCompileInputs.cache
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.CopyComplete
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.exe
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.pdb
+C:\Users\bibin\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csprojAssemblyReference.cache
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\bin\Debug\ConfigLog.config
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\bin\Debug\Assets\Icons\import.ico
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\bin\Debug\Assets\Icons\mailer.ico
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.exe.config
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.exe
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.pdb
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.dll
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\bin\Debug\log4net.dll
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\bin\Debug\MySql.Data.dll
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.xml
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\bin\Debug\log4net.xml
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csprojAssemblyReference.cache
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.DataImporter.resources
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.Properties.Resources.resources
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.GenerateResource.cache
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.CopyComplete
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.exe
+C:\Users\Adarsh\Downloads\Infrasys\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.pdb
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\ConfigLog.config
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\Assets\Icons\import.ico
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\Assets\Icons\mailer.ico
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.exe.config
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.exe
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.pdb
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.dll
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\log4net.dll
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\MySql.Data.dll
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.xml
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\bin\Debug\log4net.xml
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csprojAssemblyReference.cache
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.DataImporter.resources
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.Properties.Resources.resources
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.GenerateResource.cache
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.CopyComplete
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.exe
+C:\Users\Jimmy Joseph\Desktop\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.pdb
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Debug\ConfigLog.config
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Debug\Assets\Icons\import.ico
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Debug\Assets\Icons\mailer.ico
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.exe.config
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.exe
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.pdb
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.dll
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.SqlServer.dll
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Debug\log4net.dll
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Debug\MySql.Data.dll
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.xml
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.SqlServer.xml
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Debug\log4net.xml
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.DataImporter.resources
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.Properties.Resources.resources
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.GenerateResource.cache
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.CoreCompileInputs.cache
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.CopyComplete
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.exe
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.pdb
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csprojAssemblyReference.cache
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\Assets\Icons\import.ico
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\Assets\Icons\mailer.ico
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\ConfigLog.config
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.exe.config
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.exe
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.pdb
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.dll
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\log4net.dll
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\MySql.Data.dll
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.xml
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\log4net.xml
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csprojAssemblyReference.cache
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.DataImporter.resources
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.Properties.Resources.resources
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.GenerateResource.cache
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.CopyComplete
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.exe
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.pdb
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\Newtonsoft.Json.dll
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\System.Net.Http.Extensions.dll
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\System.Net.Http.Primitives.dll
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\Newtonsoft.Json.xml
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\System.Net.Http.Extensions.xml
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Debug\System.Net.Http.Primitives.xml
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.App.config
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\Assets\Icons\import.ico
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\Assets\Icons\mailer.ico
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\ConfigLog.config
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.exe.config
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.exe
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\InfrasysDataImporter.pdb
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.dll
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\log4net.dll
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\MySql.Data.dll
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\Newtonsoft.Json.dll
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\System.Net.Http.Extensions.dll
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\System.Net.Http.Primitives.dll
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.xml
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\log4net.xml
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\Newtonsoft.Json.xml
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\System.Net.Http.Extensions.xml
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\System.Net.Http.Primitives.xml
+D:\Covid Exe\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.App.config
+D:\Covid Exe\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csprojAssemblyReference.cache
+D:\Covid Exe\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.DataImporter.resources
+D:\Covid Exe\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.Properties.Resources.resources
+D:\Covid Exe\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.GenerateResource.cache
+D:\Covid Exe\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.CoreCompileInputs.cache
+D:\Covid Exe\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.csproj.CopyComplete
+D:\Covid Exe\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.exe
+D:\Covid Exe\Infrasys\InfrasysDataImporter\obj\Debug\InfrasysDataImporter.pdb
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\JWT.dll
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\Twilio.dll
+D:\Covid Exe\Infrasys\InfrasysDataImporter\bin\Debug\Twilio.xml

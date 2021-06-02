@@ -1,0 +1,44 @@
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Release\ConfigLog.config
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Release\Assets\Icons\import.ico
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Release\Assets\Icons\mailer.ico
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Release\InfrasysDataImporter.exe.config
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Release\InfrasysDataImporter.exe
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Release\InfrasysDataImporter.pdb
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Release\EntityFramework.dll
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Release\EntityFramework.SqlServer.dll
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Release\log4net.dll
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Release\MySql.Data.dll
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Release\MySql.Data.Entity.EF6.dll
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Release\EntityFramework.xml
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Release\EntityFramework.SqlServer.xml
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\bin\Release\log4net.xml
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.csprojAssemblyReference.cache
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.DataImporter.resources
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.Properties.Resources.resources
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.csproj.GenerateResource.cache
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.csproj.CoreCompileInputs.cache
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.csproj.CopyComplete
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.exe
+F:\Alignminds\resulotion\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.pdb
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Release\Assets\Icons\import.ico
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Release\Assets\Icons\mailer.ico
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Release\ConfigLog.config
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Release\InfrasysDataImporter.exe.config
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Release\InfrasysDataImporter.exe
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Release\InfrasysDataImporter.pdb
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Release\EntityFramework.dll
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Release\EntityFramework.SqlServer.dll
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Release\log4net.dll
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Release\MySql.Data.dll
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Release\MySql.Data.Entity.EF6.dll
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Release\EntityFramework.xml
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Release\EntityFramework.SqlServer.xml
+D:\New folder (2)\Infrasys\InfrasysDataImporter\bin\Release\log4net.xml
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.csprojAssemblyReference.cache
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.DataImporter.resources
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.Properties.Resources.resources
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.csproj.GenerateResource.cache
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.csproj.CopyComplete
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.exe
+D:\New folder (2)\Infrasys\InfrasysDataImporter\obj\Release\InfrasysDataImporter.pdb
